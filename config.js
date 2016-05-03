@@ -8,12 +8,12 @@ modes: {
 },
 
 sites:{
-  "domaene01" : {id: "domaene01",short:"d01",name:"Hochrhein-Hotzenwald", version:"1.0.4", version_base:"2016.1.4", on_map: true },
-  "domaene02" : {id: "domaene02",short:"d02",name:"Waldshut-Tiengen-Klettgau", version:"1.0.4", version_base:"2016.1.4", on_map: true },
-  "domaene03" : {id: "domaene03",short:"d03",name:"Schwarzwald", version:"1.0.4", version_base:"2016.1.4", on_map: true },
-  "domaene04" : {id: "domaene04",short:"d04",name:"Schopfheim-Wiesental", version:"1.0.4", version_base:"2016.1.4", on_map: true },
-  "domaene05" : {id: "domaene05",short:"d05",name:"Lörrach-Oberrhein", version:"1.0.4", version_base:"2016.1.4", on_map: true },
-  "domaene06" : {id: "domaene06",short:"d06",name:"Dreiland", version:"1.0.4", version_base:"2016.1.4", on_map: true },
+  "domaene01" : {id: "domaene01",short:"dom1",name:"Hochrhein-Hotzenwald", version:"1.0.4", version_base:"2016.1.4", on_map: true },
+  "domaene02" : {id: "domaene02",short:"dom2",name:"Waldshut-Klettgau", version:"1.0.4", version_base:"2016.1.4", on_map: true },
+  "domaene03" : {id: "domaene03",short:"dom3",name:"Schwarzwald", version:"1.0.4", version_base:"2016.1.4", on_map: true },
+  "domaene04" : {id: "domaene04",short:"dom4",name:"Schopfheim-Wiesental", version:"1.0.4", version_base:"2016.1.4", on_map: true },
+  "domaene05" : {id: "domaene05",short:"dom5",name:"Lörrach-Oberrhein", version:"1.0.4", version_base:"2016.1.4", on_map: true },
+  "domaene06" : {id: "domaene06",short:"dom6",name:"Dreiland", version:"1.0.4", version_base:"2016.1.4", on_map: true },
 },
 
 //router list for gluon v2015.1
