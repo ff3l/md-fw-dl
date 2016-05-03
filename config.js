@@ -14,6 +14,9 @@ sites:{
   "domaene04" : {id: "domaene04",short:"dom4",name:"Schopfheim-Wiesental", version:"1.0.4", version_base:"2016.1.4", on_map: true },
   "domaene05" : {id: "domaene05",short:"dom5",name:"Lörrach-Oberrhein", version:"1.0.4", version_base:"2016.1.4", on_map: true },
   "domaene06" : {id: "domaene06",short:"dom6",name:"Dreiland", version:"1.0.4", version_base:"2016.1.4", on_map: true },
+  "domaene07" : {id: "domaene07",short:"dom7",name:"Refugees", version:"1.0.4", version_base:"2016.1.4", on_map: false },
+  "domaene08" : {id: "domaene08",short:"dom8",name:"Testnetz", version:"1.0.4", version_base:"2016.1.4", on_map: false },
+  "diaspora" : {id: "diaspory",short:"dia",name:"Diaspora", version:"1.0.4", version_base:"2016.1.4", on_map: false },
 },
 
 //router list for gluon v2015.1
